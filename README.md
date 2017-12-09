@@ -66,13 +66,13 @@
 
 5. Campo de criação de tarefas.
 ![create](https://raw.githubusercontent.com/richardpassos01/richardpassos01.github.io/master/imagens/Laravel/LaravelCreate.JPG)
-
 <br><br><br>
 
+6. Caso insira imagens, elas são apontadas no banco de dados e ficam salvas localmente na pasta <b>Project_Name\resources\uploads</b>
 
-
+<br><br>
   
-##### Qualquer duvida entre em contato comigo
+##### Qualquer duvida entre em contato:
 
  * [Linkedin](https://github.com/markdown-it/markdown-it) 
  
