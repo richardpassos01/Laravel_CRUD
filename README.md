@@ -70,9 +70,9 @@
 
 6. Caso insira imagens, elas são apontadas no banco de dados e ficam salvas localmente na pasta <b>Project_Name\resources\uploads</b>
 
-<br><br>
+<br>
   
 ##### Qualquer duvida entre em contato:
 
- * [Linkedin](https://github.com/markdown-it/markdown-it) 
+ * [Linkedin](https://www.linkedin.com/in/richard-henrique-451a8979) 
  
