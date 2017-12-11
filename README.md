@@ -36,15 +36,18 @@
      
      
   4. Extrai os arquivos para seu diretório web, normalmente a pasta www fica em c://wamp.
+  
+  
+  5. pelo prompt de comando, navegue até o diretório onde clonou o repositório, digite <b>composer install</b>, o composer ira baixar os pacotes para o projeto, após terminar, digitar <b>composer create</b> aperte enter e aguardar o termino.
 
 
-  5. configure o arquivo .Env para conexão com seu banco de dados.
+  6. configure o arquivo .Env que foi gerado para conexão com seu banco de dados.
 
 
-  6. Abra o CMD, vá até o diretório que está o projeto, dentro da pasta utilize o comando <b>php artisan migrate</b> para que seus models sejam migrados para o banco de dados.
+  7. Abra o CMD, vá até o diretório que está o projeto, dentro da pasta utilize o comando <b>php artisan migrate</b> para que seus models sejam migrados para o banco de dados.
 
 
-  7. Você pode utilizar o comando <b>php artisan serve </b> para abrir uma porta e  acessar o projeto colando o endereço gerado no navegador, ou via wampServer, abrir o <b>localhost:8080/Project_Name/public/</b>
+  8. Você pode utilizar o comando <b>php artisan serve </b> para abrir uma porta e  acessar o projeto colando o endereço gerado no navegador, ou via wampServer, abrir o <b>localhost:8080/Project_Name/public/</b>
 
 
 
