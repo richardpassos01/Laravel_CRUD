@@ -35,7 +35,7 @@
      ![Clone](https://richardpassos01.github.io/imagens/gitclone.jpg)
      
      
-  4. Extrai os arquivos para seu diretório web, normalmente a pasta www fica em c://wamp.
+  4. Extraia os arquivos para seu diretório web, normalmente a pasta www fica em c://wamp.
   
   
   5. pelo prompt de comando, navegue até o diretório onde clonou o repositório, digite <b>composer install</b>, o composer ira baixar os pacotes para o projeto, após terminar, digitar <b>composer create</b> aperte enter e aguardar o termino.
