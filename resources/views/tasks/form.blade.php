@@ -35,7 +35,7 @@
                         {!! Form::token() !!}
                         {!! Form::file('file') !!}
                         <br>
-                        {!!	Form::submit('upload',['class' => 'btn btn-primary'])!!}
+                        {!!	Form::submit('save',['class' => 'btn btn-primary'])!!}
                         {!! Form::close() !!}
 
             </div>
